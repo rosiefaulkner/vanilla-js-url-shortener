@@ -9,5 +9,5 @@ Replace the API key in the main.js file with your key generated from a [Rebrandl
 
 ## Demo
 
-Visit [this demo site](https://vanilla-simple-url-shortener.herokuapp.com/)to check it out!
+Visit [this demo site](https://vanilla-simple-url-shortener.herokuapp.com/) to check it out!
 
